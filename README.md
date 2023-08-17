@@ -1,0 +1,2 @@
+ - Run: `pip install --upgrade -r requirements.txt`
+ - Run tests with `PYTHONPATH=$(pwd) pytest`

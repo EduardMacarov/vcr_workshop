@@ -1,0 +1,5 @@
+freezegun==1.2.2
+pytest==7.4.0
+requests==2.31.0
+types-requests==2.31.0.2
+vcrpy==5.1.0
